@@ -29,7 +29,8 @@ The code is for demo and testing only.
 
 ## 交流
 感兴趣的朋友可以关注我的个人公众号<br>
-![个人公众号](./images/gzh.jpg)<br>
+![个人公众号](./images/gzh.jpg)
+<br>
 也可以添加我的企业微信<br>
 ![企业微信](./images/wx.jpg)<br>
 
